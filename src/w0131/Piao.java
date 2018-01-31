@@ -1,7 +1,7 @@
 package w0131;
 
 public class Piao implements Runnable {
-	int count=40;
+	int count=50;
 	Object lock=new Object();
 	
 	public synchronized void xiaoshou(){
