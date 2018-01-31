@@ -17,7 +17,7 @@ public class Cat {
 	}
 	
 	public void method(){
-		System.out.println(name+"正在走猫步");
+		System.out.println(name+"正在走猫步fsfasfa");
 	}
 	public void add(int a){
 		System.out.println(a);
